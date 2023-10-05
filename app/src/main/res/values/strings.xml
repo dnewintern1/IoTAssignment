@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IoTAssignment</string>
+    <string name="meat_packing">MEAT PACKING</string>
+    <string name="plu">PLU</string>
+    <string name="_1">1</string>
+    <string name="chicken_curry_cut">Chicken Curry Cut</string>
+    <string name="tare">Tare</string>
+    <string name="_5">5</string>
+    <string name="_0">0</string>
+    <string name="weight">Weight</string>
+    <string name="price">Price</string>
+    <string name="backbutton">backbutton</string>
+    <string name="forwardbutton">forwardButton</string>
+    <string name="g">g</string>
+    <string name="mrp">MRP</string>
+</resources>
